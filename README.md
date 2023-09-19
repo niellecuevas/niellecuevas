@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raniella_rvra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raniella_rvra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raniella cuevas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raniella cuevas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raniella-cuevas-786546277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raniella cuevas" height="30" width="40" /></a>
 <a href="https://fb.com/niellecuevas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niellecuevas" height="30" width="40" /></a>
 <a href="https://instagram.com/raniella.rivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raniella.rivera" height="30" width="40" /></a>
 </p>
