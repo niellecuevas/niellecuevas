@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Raniella</h1>
 <h3>Information Technology Student Major in Business Analytics.</h3>
 
-- 🔭 I’m currently working on a **SIA Project**
+- 🔭 I’m currently working on a **System Integration and Architecture Final Project**
 - 🌱 I’m currently learning **PHP and Python**
 - 📫 How to reach me **raniella810@gmail.com**
 - ⚡ Fun fact: **I'm passionate about learning technology**
