@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Raniella</h1>
-<h3>Information Technology Major in Business Analytics Student.</h3>
+<h3>Information Technology Student Major in Business Analytics.</h3>
 
 - 🔭 I’m currently working on a **SIA Project**
 - 🌱 I’m currently learning **PHP and Python**
